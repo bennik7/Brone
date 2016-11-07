@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dr_contr</string>
+    <string name="title_activity_device_discovery">DeviceDiscovery</string>
+</resources>
